@@ -2,7 +2,7 @@
 
 <h1 align="left">👋 Hi There, I'm Ny Toky</h1>
 
-<h3 align="left">Passionate about frontend Developement | Crafting Seamless Web Experiences | HTML, Tailwind CSS, JavaScript, React, Angular </h3>
+<h3 align="left">Passionate about frontend Developement | Crafting Seamless Web Experiences | HTML, Tailwind CSS, JavaScript, React, Angular. </h3>
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript skill"/>
